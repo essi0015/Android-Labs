@@ -3,4 +3,12 @@
     <string name="app_name">AndroidLabs</string>
     <string name="hello_message">Hello canadian World!</string>
     <string name="ButtonText">I\’m a button</string>
+    <string name="password">password123</string>
+    <string name="whatDoesThisDo">Where am I?</string>
+    <string name="loginHint">Username</string>
+    <string name="radioButton">Button of Radio</string>
+    <string name="checkBox">Box of Check</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
 </resources>
