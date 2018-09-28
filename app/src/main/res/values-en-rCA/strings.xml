@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">AndroidLabs</string>
-    <string name="hello_message">Hello canadian World!</string>
-    <string name="ButtonText">I\’m a button</string>
-    <string name="password">password123</string>
-    <string name="whatDoesThisDo">Where am I?</string>
-    <string name="loginHint">Username</string>
-    <string name="radioButton">Button of Radio</string>
-    <string name="checkBox">Box of Check</string>
-    <!-- Strings related to login -->
-    <string name="prompt_email">Email</string>
-    <string name="prompt_password">Password (optional)</string>
+    <string name="hello_message">Hallo Welt!</string>
+    <string name="ButtonText">Ich bin ein Knopf!</string>
+    <string name="login">Anmeldung</string>
+    <string name="login_hint">Benutzername</string>
+    <string name="password">Passwort</string>
+    <string name="password_hint">Passwort</string>
+    <string name="LoginFlagDesc">Eine Flagge</string>
+    <string name="ListActivitySwitch">Was machst das?</string>
 </resources>
