@@ -8,5 +8,5 @@
     <string name="password">Passwort</string>
     <string name="password_hint">Passwort</string>
     <string name="LoginFlagDesc">Eine Flagge</string>
-    <string name="ListActivitySwitch">Was machst das?</string>
+    <string name="ListActivitySwitch">Wat doet dit?</string>
 </resources>
